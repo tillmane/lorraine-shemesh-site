@@ -5,7 +5,7 @@ const Exhibitions = () => {
     return (
         <div>
             <div className="image-section">
-                <img className="biography-image" src={'https://lorraineshemeshsiteimgs.s3.us-east-2.amazonaws.com/onbalance_exh_gallery_front.jpg'} alt="On Balance at Gerald Peters Gallery, New York City"/>
+                <img className="biography-image" src={'https://lorraineshemeshsiteimgs2.s3.us-east-2.amazonaws.com/exh_OnBalance_visitors.jpg'} alt="Exhibition guests at On Balance at Gerald Peters Gallery, New York City, February, 2024"/>
             </div>
             <div className="exhibition-section-type">
                 <p className="exhibition-type-title"><b>Solo Exhibitions</b></p>
