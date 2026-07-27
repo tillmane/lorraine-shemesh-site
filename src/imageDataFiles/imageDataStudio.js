@@ -26,6 +26,15 @@ export const allImagesDesktopOrderStudio = [
     [/*COLUMN 1*/
         [
             {
+                name: studio19,
+                captionln1: "",
+                captionln2: "",
+                captionln3: "",
+                link: "studio19"
+            }
+        ],
+        [
+            {
                 name: studio22,
                 captionln1: "",
                 captionln2: "",
@@ -222,6 +231,13 @@ export const allImagesDesktopOrderStudio = [
 
 export const allImagesMobileOrderStudio = [
     [{
+        name: studio19,
+        captionln1: "",
+        captionln2: "",
+        captionln3: "",
+        link: "studio19"
+    },
+    {
         name: studio22,
         captionln1: "",
         captionln2: "",
