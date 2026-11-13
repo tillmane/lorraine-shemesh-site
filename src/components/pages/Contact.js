@@ -8,7 +8,7 @@ const Contact = () => {
     return (
         <div className="contact-container">
             <div className="gallery-information-container">
-                <h5 className="gallery-name"><b>Gerald Peters</b></h5>
+                <h5 className="gallery-name"><b>Gerald Peters Gallery</b></h5>
             </div> 
             <div className="gallery-information-container">
                 <p><b>New York</b></p>
