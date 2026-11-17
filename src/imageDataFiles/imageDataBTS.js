@@ -40,6 +40,26 @@ export const allImagesDesktopOrderBts = [
                 link: "bts3",
                 privateCollection: "Private Collection"
             }
+        ],
+        [
+            {
+                name: backfloat,
+                artistName: "Lorraine Shemesh",
+                title: "Back Float",
+                year: "1991",
+                dimensions: "72 x 78 in., o/c",
+                link: "bts7",
+                privateCollection: "Private Collection"
+            },
+            {
+                name: backfloatDetail1,
+                artistName: "Lorraine Shemesh",
+                title: "Back Float - detail",
+                year: "1991",
+                dimensions: "72 x 78 in., o/c",
+                link: "bts8",
+                privateCollection: "Private Collection"
+            }
         ]
     ],
     [/*COLUMN 2*/
@@ -76,26 +96,6 @@ export const allImagesDesktopOrderBts = [
         ]
     ],
     [/*COLUMN 3*/
-        [
-            {
-                name: backfloat,
-                artistName: "Lorraine Shemesh",
-                title: "Back Float",
-                year: "1991",
-                dimensions: "72 x 78 in., o/c",
-                link: "bts7",
-                privateCollection: "Private Collection"
-            },
-            {
-                name: backfloatDetail1,
-                artistName: "Lorraine Shemesh",
-                title: "Back Float - detail",
-                year: "1991",
-                dimensions: "72 x 78 in., o/c",
-                link: "bts8",
-                privateCollection: "Private Collection"
-            }
-        ]
     ]          
 ]
 
@@ -128,6 +128,24 @@ export const allImagesMobileOrderBts = [
         privateCollection: "Private Collection"
     },
     {
+        name: backfloat,
+        artistName: "Lorraine Shemesh",
+        title: "Back Float",
+        year: "1991",
+        dimensions: "72 x 78 in., o/c",
+        link: "bts7",
+        privateCollection: "Private Collection"
+    },
+    {
+        name: backfloatDetail1,
+        artistName: "Lorraine Shemesh",
+        title: "Back Float - detail",
+        year: "1991",
+        dimensions: "72 x 78 in., o/c",
+        link: "bts8",
+        privateCollection: "Private Collection"
+    },
+    {
         name: ring,
         artistName: "Lorraine Shemesh",
         title: "Ring",
@@ -152,24 +170,6 @@ export const allImagesMobileOrderBts = [
         year: "2005",
         dimensions: "71 1/2 x 61 1/2 in., o/c",
         link: "bts6",
-        privateCollection: "Private Collection"
-    },
-    {
-        name: backfloat,
-        artistName: "Lorraine Shemesh",
-        title: "Back Float",
-        year: "1991",
-        dimensions: "72 x 78 in., o/c",
-        link: "bts7",
-        privateCollection: "Private Collection"
-    },
-    {
-        name: backfloatDetail1,
-        artistName: "Lorraine Shemesh",
-        title: "Back Float - detail",
-        year: "1991",
-        dimensions: "72 x 78 in., o/c",
-        link: "bts8",
         privateCollection: "Private Collection"
     }]      
 ]
