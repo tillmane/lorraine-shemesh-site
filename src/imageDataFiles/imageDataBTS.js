@@ -95,17 +95,6 @@ export const allImagesDesktopOrderBts = [
                 link: "bts8",
                 privateCollection: "Private Collection"
             }
-        ],
-        [
-            {
-                name: exhale,
-                artistName: "Lorraine Shemesh",
-                title: "Exhale",
-                year: "1995",
-                dimensions: "69 x 80 in., o/c",
-                link: "bts9",
-                privateCollection: "Private Collection"
-            }
         ]
     ]          
 ]
@@ -181,15 +170,6 @@ export const allImagesMobileOrderBts = [
         year: "1991",
         dimensions: "72 x 78 in., o/c",
         link: "bts8",
-        privateCollection: "Private Collection"
-    },
-    {
-        name: exhale,
-        artistName: "Lorraine Shemesh",
-        title: "Exhale",
-        year: "1995",
-        dimensions: "69 x 80 in., o/c",
-        link: "bts9",
         privateCollection: "Private Collection"
     }]      
 ]
